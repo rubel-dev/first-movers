@@ -18,7 +18,7 @@ const Destination = () => {
         const data = fakeData;
         const transport = data.find(info => info.transportType === type)
          setDestination(transport)
-    },[]) 
+    },[type]) 
     
     const handleSubmit =(e)=>{  
         const startInput = document.getElementById('start').value;

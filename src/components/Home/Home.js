@@ -10,7 +10,7 @@ const Home = () => {
 
     useEffect(()=>{ 
         const transportInfo = fakeData
-         setVehicles(fakeData)
+         setVehicles(transportInfo)
     },[])
     return (
         <div className='home' style={{ backgroundImage: `url(${backgroundImg})` }}>
