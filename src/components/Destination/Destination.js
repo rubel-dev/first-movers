@@ -96,7 +96,7 @@ const Destination = () => {
                 }
               </div>
              <div className="col-md-7 google_map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3749245.2713778643!2d92.15710884062497!3d23.410913435810663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sbn!2sbd!4v1600916539692!5m2!1sbn!2sbd" className="map" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3749245.2713778643!2d92.15710884062497!3d23.410913435810663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sbn!2sbd!4v1600916539692!5m2!1sbn!2sbd" title="iframe Example 1" className="map" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
              </div>
            </div>
         </div>
