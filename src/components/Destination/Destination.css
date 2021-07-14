@@ -1,0 +1,48 @@
+.form{ 
+  width:300px; 
+  background:#EFEFEF;
+  padding: 20px;
+  border-radius: 7px;
+}
+.form label{
+    display:block;
+    margin-top: 7px;
+}
+.form .btn{
+    margin-top:10px;
+}
+.text-style{
+    background:white;
+    border-radius: 7px;
+}
+.text-style h5{
+    font-size: 15px;
+    font-weight: 700;
+}
+ 
+.destination-img{
+    width: 50px;
+}
+.people-img{
+    width:20px;
+}
+.transport-detail{
+    background:teal;
+}
+.location{ 
+    background:#FF6E40;
+    height:100px;
+    margin-bottom: 10px;
+    padding: 15px 20px;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+}
+.google-sign img{
+    width: 100px;
+}
+.map{
+    width:400px;
+    height:400px;
+    border-radius: 10px;
+}

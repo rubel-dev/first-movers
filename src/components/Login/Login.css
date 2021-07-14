@@ -1,0 +1,35 @@
+.main-btn {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 56px;
+    width: 100%;
+    padding: 10px 16px;
+    font-size: 22px;
+    background-color: var(--gray-15);
+    border-width: 3px;
+    border-color: var(--gray-85);
+    color: var(--gray-85);
+    border-radius: 0px;
+    text-decoration: none;
+    outline: none;
+}
+.login{
+    width: 400px;
+    margin: 0px auto;
+}
+.google-sign{
+    width:350px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.email-sign-in{
+    border: 1px solid gray;
+    padding: 10px 30px;
+}
+.email-sign-in input{
+    width:300px;
+    border:0px 0px 1px 0px;
+}
+.email-sign-in .form-control{
+    border:none;
+    border-bottom: 1px solid gray;
+}

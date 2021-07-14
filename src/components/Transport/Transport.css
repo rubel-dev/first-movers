@@ -1,0 +1,22 @@
+.vehicle{
+    width: 200px;
+    height:200px;
+    /* background:white; */
+    color:gray; 
+    padding: 20px;
+    
+}
+.vehicle img{
+   width: 78%;
+}
+.single-transport { 
+    box-shadow: 5px 5px 10px grey; 
+    transition:all ease .5s;
+    border-radius: 10px; 
+    background:#5BCDF6;
+    margin-top: 20px;
+}
+.single-transport:hover{
+    transform:translateY(-10px);
+    background:#ffd6d6;
+}
